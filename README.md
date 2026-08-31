@@ -1,9 +1,12 @@
 # Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
+
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
+
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
-### Algorithm:
+
+### PROCEDURE:
 ```
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project.
 2. Name the project "SteeringBehaviors" and select a location. Click Create.
@@ -106,15 +109,10 @@ public class Pursuer: MonoBehaviour
 13. Stop the program
     
 ```
-### Output:
+### OUTPUT:
 
 
 
 
-
-
-
-
-
-### Result:
+### RESULT:
 Thus the simple pursue and evade behavior was implemented successfully.
